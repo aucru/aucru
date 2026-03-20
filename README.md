@@ -44,23 +44,23 @@
 
 <div align="center">
 
-<!-- 第一行 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright" alt="" />
+<!-- 第一行：整行卡片 -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright" alt="" />
+</p>
 
-<br>
-
-<!-- 第二行：flex并排 -->
-<div style="display: flex; justify-content: center; gap: 20px;">
+<!-- 第二行：两个卡片并排 -->
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8" width="45%" alt="" />
+  &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright" width="45%" alt="" />
-</div>
+</p>
 
-<br>
-
-<!-- 第三行：flex并排 -->
-<div style="display: flex; justify-content: center; gap: 20px;">
+<!-- 第三行：两个卡片并排 -->
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright" width="45%" alt="" />
+  &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright" width="45%" alt="" />
-</div>
+</p>
 
 </div>
