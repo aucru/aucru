@@ -17,3 +17,8 @@ jobs:
           SHOW_OS: "True"
           LOCALE: "zh"
           SHOW_UPDATED_DATE: "True"
+          SHOW_SHORT_INFO: "False"
+          SYMBOL_VERSION: "3"
+          BADGE_STYLE: "social"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
