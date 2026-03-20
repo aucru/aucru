@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,grafana,prometheus,nginx&perline=8" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,grafana,prometheus,nginx,ansible&perline=8" />
   </a>
 </p>
 
@@ -36,14 +36,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,githubactions&perline=8" />
+    <img src="https://skillicons.dev/icons?i=md,git,githubactions&perline=8" />
   </a>
 </p>
 
 ## Metrics
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright)
+<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright)
+</div>
