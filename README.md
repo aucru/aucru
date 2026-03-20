@@ -66,6 +66,15 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright" alt="" />
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright" alt="" />
+    </td>
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright" alt="" />
+    </td>
+  </tr>
 </table>
 
 </div>
