@@ -42,10 +42,26 @@
 
 ## Metrics
 
-<div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright)
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center" colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright" />
+    </td>
+  </tr>
+</table>
