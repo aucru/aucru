@@ -20,6 +20,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,vscode,notion,postman,obsidian&perline=8" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,gmail,github,webstorm&perline=8" />
   </a>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright)
