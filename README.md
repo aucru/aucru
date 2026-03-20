@@ -44,30 +44,23 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" align="center" colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright" />
-    </td>
-  </tr>
+<!-- 第一行 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright" alt="" />
 
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright" />
-    </td>
-  </tr>
+<br>
 
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright" />
-    </td>
-  </tr>
-</table>
+<!-- 第二行：flex并排 -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8" width="45%" alt="" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright" width="45%" alt="" />
+</div>
+
+<br>
+
+<!-- 第三行：flex并排 -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright" width="45%" alt="" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright" width="45%" alt="" />
+</div>
 
 </div>
