@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=80&pause=1000&center=true&vCenter=true&width=847&height=100&lines=Hello%2C+I+am+Aucru.;Welcome+to++my+profile." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=80&duration=6000&pause=3000&center=true&vCenter=true&width=847&height=100&lines=Hello%2C+I+am+Aucru.;Welcome+to++my+profile." alt="Typing SVG" /></a>
 
 <p align="center">
   <img style="width: 100%;" src="game.gif" alt="shooter game" />  
