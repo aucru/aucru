@@ -44,23 +44,28 @@
 
 <div align="center">
 
-<!-- 第一行：整行卡片 -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright" alt="" />
-</p>
-
-<!-- 第二行：两个卡片并排 -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8" width="45%" alt="" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright" width="45%" alt="" />
-</p>
-
-<!-- 第三行：两个卡片并排 -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright" width="45%" alt="" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright" width="45%" alt="" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" colspan="2" style="border: none; background-color: transparent;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright" alt="" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8" alt="" />
+    </td>
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright" alt="" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright" alt="" />
+    </td>
+    <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright" alt="" />
+    </td>
+  </tr>
+</table>
 
 </div>
