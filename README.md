@@ -10,3 +10,16 @@
 </p>
 
 ## About me
+
+- 🙋 你好呀，我是阿 KiNG。
+- 🖥️ 热爱路由器、编程、骑行，试图培养新爱好。
+- 📍 目前在苏州工作。
+- 🕹️ <s>间歇性</s>**奋发图强**<s>，持续性混吃等死。</s>
+
+## Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,vscode,notion,postman,obsidian&perline=8" />
+  </a>
+</p>
