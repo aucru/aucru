@@ -20,8 +20,30 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,gmail,github,webstorm&perline=8" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,gmail,github,webstorm&perline=8" />
   </a>
 </p>
 
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,grafana,prometheus,nginx&perline=8" />
+  </a>
+</p>
+
+## Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,githubactions&perline=8" />
+  </a>
+</p>
+
+## Metrics
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright)
