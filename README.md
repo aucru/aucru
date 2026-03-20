@@ -46,23 +46,23 @@
     <table>
       <tr>
         <td width="50%" align="center" colspan="2" style="border: none; background-color: transparent;">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=nord_bright" alt="" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucru&theme=transparent " alt="" />
         </td>
       </tr>
       <tr>
         <td width="50%" align="center" style="border: none; background-color: transparent;">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=nord_bright&utcOffset=8" alt="" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aucru&theme=transparent &utcOffset=8" alt="" />
         </td>
         <td width="50%" align="center" style="border: none; background-color: transparent;">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=nord_bright" alt="" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aucru&theme=transparent " alt="" />
         </td>
       </tr>
       <tr>
         <td width="50%" align="center" style="border: none; background-color: transparent;">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=nord_bright" alt="" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aucru&theme=transparent " alt="" />
         </td>
         <td width="50%" align="center" style="border: none; background-color: transparent;">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=nord_bright" alt="" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aucru&theme=transparent " alt="" />
         </td>
       </tr>
     </table>
