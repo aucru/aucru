@@ -42,6 +42,8 @@
 
 ## Metrics
 
+<div align="center">
+
 <table>
   <tr>
     <td width="50%" align="center" colspan="2">
@@ -65,3 +67,5 @@
     </td>
   </tr>
 </table>
+
+</div>
