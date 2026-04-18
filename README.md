@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,gmail,github,webstorm&perline=8" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,redhat,gmail,stackoverflow,vercel,gcp,github,webstorm,idea&perline=8" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,git,githubactions&perline=8" />
+    <img src="https://skillicons.dev/icons?i=md,git,githubactions,go&perline=8" />
   </a>
 </p>
 
