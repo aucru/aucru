@@ -76,6 +76,47 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C090%20hrs%2025%20mins-blue?style=flat)
 
+**我是早鸟 🐤** 
+
+```text
+🌞 早晨                     63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+🌆 白天                     156 commits         █████████████░░░░░░░░░░░░   53.06 % 
+🌃 傍晚                     63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+🌙 晚上                     12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+```
+📅 **星期五 时的我最有干劲** 
+
+```text
+星期一                      47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+星期二                      25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+星期三                      57 commits          █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+星期四                      29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+星期五                      110 commits         █████████░░░░░░░░░░░░░░░░   37.41 % 
+星期六                      26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+星期日                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+INI                      47 mins             ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+YAML                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Service unit configuratio22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+ThinClientFileType       13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+
+🔥 编辑器: 
+IntelliJ IDEA            2 hrs 37 mins       ██████████████████████░░░   88.74 % 
+GoLand                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+
+💻 操作系统: 
+Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+```
+
 **我最常使用 Rust** 
 
 ```text
@@ -93,5 +134,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:31 UTC
+ Last Updated on 25/07/2026 19:43:08 UTC
 <!--END_SECTION:waka-->
