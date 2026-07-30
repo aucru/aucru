@@ -74,27 +74,27 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2031%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     64 commits          █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-🌆 白天                     159 commits         █████████████░░░░░░░░░░░░   53.18 % 
-🌃 傍晚                     63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-🌙 晚上                     13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+🌞 早晨                     67 commits          █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+🌆 白天                     166 commits         █████████████░░░░░░░░░░░░   53.72 % 
+🌃 傍晚                     63 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+🌙 晚上                     13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 📅 **星期五 时的我最有干劲** 
 
 ```text
-星期一                      47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-星期二                      25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-星期三                      61 commits          █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-星期四                      30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-星期五                      110 commits         █████████░░░░░░░░░░░░░░░░   36.79 % 
-星期六                      26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+星期一                      47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+星期二                      25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+星期三                      61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+星期四                      40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+星期五                      110 commits         █████████░░░░░░░░░░░░░░░░   35.60 % 
+星期六                      26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 星期日                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -105,17 +105,17 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Docker                   1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   40.50 % 
-YAML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Nginx Configuration Pro  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Service unit configuratio7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+JSON                     1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Image (svg)              1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Docker                   1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+YAML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            2 hrs 52 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,7 +127,7 @@ No AI Coding Activity Tracked This Week
 **我最常使用 Rust** 
 
 ```text
-Rust                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Rust                     5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 Go                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
@@ -141,5 +141,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:52:53 UTC
+ Last Updated on 30/07/2026 20:03:06 UTC
 <!--END_SECTION:waka-->
