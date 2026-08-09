@@ -105,17 +105,17 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Rust                     1 hr 47 mins        █████████████░░░░░░░░░░░░   53.91 % 
-TOML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Rust                     1 hr 47 mins        ██████████████░░░░░░░░░░░   54.47 % 
+TOML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            3 hrs 19 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,5 +141,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:11:12 UTC
+ Last Updated on 09/08/2026 19:13:41 UTC
 <!--END_SECTION:waka-->
