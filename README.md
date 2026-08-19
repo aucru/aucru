@@ -74,7 +74,7 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%205%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2012%20mins-blue?style=social)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2031%20mins-blue?style=social)
 
@@ -105,17 +105,17 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Nginx Configuration Pro  2 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.89 % 
-YAML                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Nginx configuration file 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-INI                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Config                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Nginx Configuration Pro  2 hrs 47 mins       █████████████████░░░░░░░░   68.77 % 
+Nginx configuration file 51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Rust                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+INI                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            5 hrs 49 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,5 +141,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:10:10 UTC
+ Last Updated on 19/08/2026 19:05:52 UTC
 <!--END_SECTION:waka-->
