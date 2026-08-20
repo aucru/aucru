@@ -105,17 +105,17 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Nginx Configuration Pro  2 hrs 47 mins       █████████████████░░░░░░░░   68.77 % 
-Nginx configuration file 51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Rust                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-INI                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Nginx Configuration Pro  2 hrs 47 mins       ██████████████████░░░░░░░   72.83 % 
+Nginx configuration file 49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Service unit configuratio3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            4 hrs 3 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,5 +141,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:05:52 UTC
+ Last Updated on 20/08/2026 19:13:22 UTC
 <!--END_SECTION:waka-->
