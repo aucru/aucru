@@ -105,17 +105,15 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Nginx Configuration Pro  2 hrs 47 mins       ███████████████████░░░░░░   74.98 % 
-Nginx configuration file 50 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Service unit configuratio3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Nginx configuration file 4 mins              ████████████░░░░░░░░░░░░░   47.34 % 
+Service unit configuratio3 mins              ███████████░░░░░░░░░░░░░░   42.34 % 
+INI                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            3 hrs 42 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,5 +139,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:59:47 UTC
+ Last Updated on 24/08/2026 19:13:04 UTC
 <!--END_SECTION:waka-->
