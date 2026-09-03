@@ -74,7 +74,7 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2012%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2021%20mins-blue?style=social)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2032%20mins-blue?style=social)
 
@@ -105,19 +105,20 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    0 secs              █████████████████████████   100.00 % 
+Rust                     8 mins              ████████████████████████░   96.58 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (100.0%)
+⏱ AI Coding Time: 0 secs (3.42%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -137,11 +138,11 @@ Windows                  0 secs              ███████████�
 **我最常使用 Rust** 
 
 ```text
-Rust                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Go                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Rust                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
@@ -151,5 +152,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:14:46 UTC
+ Last Updated on 03/09/2026 21:15:51 UTC
 <!--END_SECTION:waka-->
