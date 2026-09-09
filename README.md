@@ -74,7 +74,7 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%205%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2040%20mins-blue?style=social)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2032%20mins-blue?style=social)
 
@@ -105,17 +105,17 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-YAML                     40 mins             ███████████████████░░░░░░   76.99 % 
-Rust                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+YAML                     5 hrs 28 mins       █████████████████████░░░░   84.79 % 
+Docker                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Rust                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            52 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  6 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,5 +141,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:22:00 UTC
+ Last Updated on 09/09/2026 21:07:16 UTC
 <!--END_SECTION:waka-->
