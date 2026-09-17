@@ -74,27 +74,27 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C113%20hrs%2015%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C113%20hrs%2043%20mins-blue?style=social)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2032%20mins-blue?style=social)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     76 commits          █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-🌆 白天                     200 commits         ██████████████░░░░░░░░░░░   55.71 % 
-🌃 傍晚                     69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-🌙 晚上                     14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+🌞 早晨                     76 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+🌆 白天                     200 commits         ██████████████░░░░░░░░░░░   55.25 % 
+🌃 傍晚                     72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+🌙 晚上                     14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 ```
 📅 **星期五 时的我最有干劲** 
 
 ```text
-星期一                      52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-星期二                      29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-星期三                      78 commits          █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-星期四                      56 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-星期五                      115 commits         ████████░░░░░░░░░░░░░░░░░   32.03 % 
-星期六                      29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+星期一                      52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+星期二                      29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+星期三                      78 commits          █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+星期四                      59 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+星期五                      115 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
+星期六                      29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 星期日                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -105,17 +105,17 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-YAML                     1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Go                       54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Docker                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-GitIgnore file           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Go                       1 hr 21 mins        ████████████░░░░░░░░░░░░░   47.26 % 
+YAML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+GitIgnore file           20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Docker                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Dockerfile               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            4 hrs 36 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,11 +127,11 @@ No AI Coding Activity Tracked This Week
 **我最常使用 Rust** 
 
 ```text
-Rust                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Go                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Rust                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Go                       4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -141,5 +141,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:34:57 UTC
+ Last Updated on 17/09/2026 21:38:52 UTC
 <!--END_SECTION:waka-->
