@@ -105,17 +105,16 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Go                       1 hr 21 mins        █████████████░░░░░░░░░░░░   53.84 % 
-GitIgnore file           19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Docker                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Dockerfile               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-go.mod                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Go                       1 hr 21 mins        ██████████████████░░░░░░░   71.60 % 
+GitIgnore file           19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+go.mod                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            2 hrs 31 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 53 mins        █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,5 +140,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:09:52 UTC
+ Last Updated on 19/09/2026 20:57:17 UTC
 <!--END_SECTION:waka-->
