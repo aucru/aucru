@@ -105,14 +105,13 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Go                       26 mins             ████████████████████████░   97.97 % 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-IntelliJ IDEA            27 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
@@ -138,5 +137,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:42:23 UTC
+ Last Updated on 24/09/2026 21:44:37 UTC
 <!--END_SECTION:waka-->
