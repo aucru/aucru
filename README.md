@@ -74,9 +74,9 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C116%20hrs%209%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C116%20hrs%2032%20mins-blue?style=social)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2045%20mins-blue?style=social)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%203%20mins-blue?style=social)
 
 **我是早鸟 🐤** 
 
@@ -105,38 +105,38 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TOML                     43 mins             ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-Other                    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Python                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-GitIgnore file           14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+TOML                     53 mins             ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+Python                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+GitIgnore file           14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            1 hr 45 mins        ███████████████░░░░░░░░░░   61.43 % 
-Codex Vscode             1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   38.57 % 
+IntelliJ IDEA            1 hr 58 mins        ███████████████░░░░░░░░░░   60.60 % 
+Codex Vscode             1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   39.40 % 
 
 💻 操作系统: 
-Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (42.53%)
+⏱ AI Coding Time: 1 hr 31 mins (46.96%)
 
 ✍️ 98 lines written by AI, 358 lines written by hand (21.49% AI-written)
 
-🔤 202,666 Input Tokens, 20,097 Output Tokens
+🔤 242,223 Input Tokens, 23,781 Output Tokens
 
-💵 $0.99 Estimated AI Cost This Week
+💵 $1.19 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 27 AI Prompts
+🧠 11 AI Sessions, 33 AI Prompts
 
 GPT                      98 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 21.49% of written lines came from AI
-📝 Concise Prompter — average 96 characters per prompt
+📝 Concise Prompter — average 82 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 79.75% of changed lines were hand-edited
 ```
@@ -158,5 +158,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 23:03:21 UTC
+ Last Updated on 14/10/2026 21:55:23 UTC
 <!--END_SECTION:waka-->
