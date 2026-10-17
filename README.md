@@ -105,40 +105,40 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    3 hrs 38 mins       ██████████████░░░░░░░░░░░   56.25 % 
-Typst                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-TOML                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Other                    3 hrs 26 mins       ███████████████░░░░░░░░░░   58.11 % 
+Typst                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+TOML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 编辑器: 
-Codex Vscode             4 hrs 17 mins       █████████████████░░░░░░░░   66.37 % 
-IntelliJ IDEA            2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
+Codex Vscode             3 hrs 54 mins       ████████████████░░░░░░░░░   65.94 % 
+IntelliJ IDEA            2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.06 % 
 
 💻 操作系统: 
-Windows                  6 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 34 mins (70.76%)
+⏱ AI Coding Time: 4 hrs 7 mins (69.65%)
 
-✍️ 25 lines written by AI, 115 lines written by hand (17.86% AI-written)
+✍️ 3 lines written by AI, 106 lines written by hand (2.75% AI-written)
 
-🔤 626,781 Input Tokens, 53,882 Output Tokens
+🔤 527,936 Input Tokens, 45,731 Output Tokens
 
-💵 $2.87 Estimated AI Cost This Week
+💵 $2.50 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 75 AI Prompts
+🧠 14 AI Sessions, 69 AI Prompts
 
-GPT                      25 lines            █████████████████████████   100.00 % 
+GPT                      3 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.86% of written lines came from AI
-📝 Concise Prompter — average 153 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 85.96% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.75% of written lines came from AI
+📝 Concise Prompter — average 160 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 97.96% of changed lines were hand-edited
 ```
 
 **我最常使用 Rust** 
@@ -158,5 +158,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:33:50 UTC
+ Last Updated on 17/10/2026 20:52:03 UTC
 <!--END_SECTION:waka-->
