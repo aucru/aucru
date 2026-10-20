@@ -105,40 +105,40 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    3 hrs 39 mins       ███████████████░░░░░░░░░░   59.03 % 
-Typst                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-TOML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Other                    3 hrs 38 mins       ██████████████████░░░░░░░   71.07 % 
+Typst                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+TOML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Docker                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 编辑器: 
-Codex Vscode             4 hrs 7 mins        █████████████████░░░░░░░░   66.49 % 
-IntelliJ IDEA            2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.51 % 
+Codex Vscode             4 hrs 2 mins        ████████████████████░░░░░   78.91 % 
+IntelliJ IDEA            1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 
 💻 操作系统: 
-Windows                  6 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 23 mins (70.9%)
+⏱ AI Coding Time: 4 hrs 17 mins (83.66%)
 
-✍️ 3 lines written by AI, 106 lines written by hand (2.75% AI-written)
+✍️ 3 lines written by AI, 88 lines written by hand (3.3% AI-written)
 
 🔤 483,090 Input Tokens, 23,277 Output Tokens
 
 💵 $1.81 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 96 AI Prompts
+🧠 13 AI Sessions, 94 AI Prompts
 
 GPT                      3 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.75% of written lines came from AI
-📝 Concise Prompter — average 241 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 97.96% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 3.3% of written lines came from AI
+📝 Concise Prompter — average 246 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 97.56% of changed lines were hand-edited
 ```
 
 **我最常使用 Rust** 
@@ -158,5 +158,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:36:32 UTC
+ Last Updated on 20/10/2026 21:50:30 UTC
 <!--END_SECTION:waka-->
