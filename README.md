@@ -74,27 +74,27 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2050%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2012%20mins-blue?style=social)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2038%20mins-blue?style=social)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2032%20mins-blue?style=social)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     74 commits          █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-🌆 白天                     205 commits         ██████████████░░░░░░░░░░░   55.56 % 
-🌃 傍晚                     73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-🌙 晚上                     17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+🌞 早晨                     74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+🌆 白天                     204 commits         █████████████░░░░░░░░░░░░   53.54 % 
+🌃 傍晚                     83 commits          █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+🌙 晚上                     20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 ```
 📅 **星期五 时的我最有干劲** 
 
 ```text
-星期一                      54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-星期二                      33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-星期三                      74 commits          █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-星期四                      55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-星期五                      115 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
-星期六                      38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+星期一                      65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+星期二                      34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+星期三                      74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+星期四                      55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+星期五                      115 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
+星期六                      38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 星期日                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -105,50 +105,49 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    6 hrs 43 mins       ██████████████░░░░░░░░░░░   56.53 % 
-JSON                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-TeX                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-PowerShell               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Other                    5 hrs 52 mins       ██████████████░░░░░░░░░░░   55.03 % 
+TeX                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+PowerShell               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Git Config               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            10 hrs 7 mins       █████████████████████░░░░   85.04 % 
-Codex Vscode             1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+IntelliJ IDEA            10 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  11 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 46 mins (90.51%)
+⏱ AI Coding Time: 9 hrs 21 mins (87.84%)
 
-✍️ 1,013 lines written by AI, 297 lines written by hand (77.33% AI-written)
+✍️ 1,157 lines written by AI, 325 lines written by hand (78.07% AI-written)
 
-🔤 11,085,885 Input Tokens, 930,659 Output Tokens
+🔤 11,158,430 Input Tokens, 944,462 Output Tokens
 
-💵 $166.03 Estimated AI Cost This Week
+💵 $166.72 Estimated AI Cost This Week
 
-🧠 110 AI Sessions, 213 AI Prompts
+🧠 110 AI Sessions, 186 AI Prompts
 
-GPT                      1,017 lines         █████████████████████████   100.00 % 
+GPT                      1,161 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.33% of written lines came from AI
-📝 Concise Prompter — average 406 characters per prompt
+🤖 AI-Driven — 78.07% of written lines came from AI
+📝 Concise Prompter — average 416 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 38.66% of changed lines were hand-edited
+🚀 High AI Trust — 36.83% of changed lines were hand-edited
 ```
 
 **我最常使用 Rust** 
 
 ```text
-Rust                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Rust                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Pkl                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -158,5 +157,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:07:47 UTC
+ Last Updated on 26/10/2026 22:52:56 UTC
 <!--END_SECTION:waka-->
