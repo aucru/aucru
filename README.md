@@ -73,7 +73,7 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C144%20hrs-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C144%20hrs%2028%20mins-blue?style=social)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2032%20mins-blue?style=social)
 
@@ -104,24 +104,24 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    5 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.77 % 
-YAML                     2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Text                     2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Python                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-TOML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Other                    5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.59 % 
+Text                     3 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+YAML                     2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Python                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+TOML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            14 hrs 42 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            15 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  14 hrs 22 mins      ████████████████████████░   97.74 % 
-Mac                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Windows                  14 hrs 50 mins      ████████████████████████░   97.81 % 
+Mac                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 23 mins (50.28%)
+⏱ AI Coding Time: 7 hrs 23 mins (48.75%)
 
 ✍️ 775 lines written by AI, 270 lines written by hand (74.16% AI-written)
 
@@ -157,5 +157,5 @@ Pkl                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 23:34:22 UTC
+ Last Updated on 22/11/2026 23:46:54 UTC
 <!--END_SECTION:waka-->
