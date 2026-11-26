@@ -73,9 +73,9 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C154%20hrs%2023%20mins-blue?style=social)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C157%20hrs%2057%20mins-blue?style=social)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%209%20mins-blue?style=social)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%205%20mins-blue?style=social)
 
 **我是早鸟 🐤** 
 
@@ -104,40 +104,40 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-YAML                     10 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   39.30 % 
-Other                    7 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Text                     2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Python                   2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-TOML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+YAML                     13 hrs 52 mins      ███████████░░░░░░░░░░░░░░   42.74 % 
+Other                    10 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Text                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Python                   2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+TOML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 编辑器: 
-IntelliJ IDEA            26 hrs 33 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            32 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  25 hrs 33 mins      ████████████████████████░   96.25 % 
-Mac                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Windows                  31 hrs 23 mins      ████████████████████████░   96.74 % 
+Mac                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 32 mins (39.69%)
+⏱ AI Coding Time: 13 hrs 27 mins (41.49%)
 
-✍️ 1,018 lines written by AI, 582 lines written by hand (63.62% AI-written)
+✍️ 1,018 lines written by AI, 884 lines written by hand (53.52% AI-written)
 
-🔤 1,720,942 Input Tokens, 164,618 Output Tokens
+🔤 2,528,691 Input Tokens, 190,610 Output Tokens
 
-💵 $75.20 Estimated AI Cost This Week
+💵 $78.98 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 273 AI Prompts
+🧠 24 AI Sessions, 339 AI Prompts
 
 GPT                      1,029 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.62% of written lines came from AI
-📝 Concise Prompter — average 280 characters per prompt
+⚖️ Balanced with AI — 53.52% of written lines came from AI
+📝 Concise Prompter — average 336 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 63.05% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 67.03% of changed lines were hand-edited
 ```
 
 **我最常使用 Rust** 
@@ -157,5 +157,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aucru/aucru/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 02:46:25 UTC
+ Last Updated on 26/11/2026 01:57:27 UTC
 <!--END_SECTION:waka-->
